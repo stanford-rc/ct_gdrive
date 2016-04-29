@@ -34,6 +34,7 @@ import argparse
 import os
 import sys
 
+from apiclient import discovery
 import oauth2client
 from oauth2client import client
 from oauth2client import tools
