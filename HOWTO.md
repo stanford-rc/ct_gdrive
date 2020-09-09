@@ -12,7 +12,7 @@ requested by the Lustre/HSM coordinator. **lhsmtool_cmd** comes with the Lustre/
 
 So, you will need:
 
-* `lhsmtool_cmd` daemon ([lhsmtool_cmd.c](https://github.com/cea-hpc/robinhood/blob/b_3.0/src/tools/lhsmtool_cmd.c)) available in `robinhood-tools-3.x.lustre2.x.elx.rpm`
+* `lhsmtool_cmd` daemon ([lhsmtool_cmd.c](https://github.com/cea-hpc/robinhood/blob/master/src/tools/lhsmtool_cmd.c)) available in `robinhood-tools-3.x.lustre2.x.elx.rpm`
 
 #### Building lhsmtool_cmd from source
 
