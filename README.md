@@ -50,7 +50,7 @@ supporting multiple accounts is planned.
 **ct_gdrive** is maintained and used in production by [Stanford Research Computing](https://srcc.stanford.edu/) where we
 successfully pushed several millions of files and more than 1 PB to Google Drive in about a month.
 
-Have questions? Feel free to contact us at research-computing-support@stanford.edu
+Have questions? Feel free to contact us at srcc-support@stanford.edu
 
 <div align="center">
   <a href="http://www.stanford.edu" ><img src="SUSigSeal.png" width="180px"></a><br><br>
